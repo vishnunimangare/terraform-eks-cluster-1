@@ -116,7 +116,7 @@ Go to:
 
 **Add User:**
 
-* **username**: `atul`
+* **username**: test
 * **group name**: `eks-master`
 * **Access Policies**:
 
